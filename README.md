@@ -1,5 +1,5 @@
 # TIGRAMITE – Causal discovery for time series datasets
-Version 3.0 described in http://arxiv.org/abs/1702.07007
+Version 4.0 described in http://arxiv.org/abs/1702.07007
 
 (Python Package)
 
